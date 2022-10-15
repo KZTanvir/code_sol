@@ -1,0 +1,16 @@
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#.deps.json
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#.dll
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/ref/c#.dll
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/bin/Debug/net5.0/c#.pdb
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.dll
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/ref/c#.dll
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.pdb
+/home/mdkamruzzaman/Desktop/My Projects/code_sol/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
