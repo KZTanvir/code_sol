@@ -32,7 +32,7 @@ void display(){
 
 int main(int argc, char** argv){
 	glutInit(&argc,argv);
-	glutCreateWindow("Tanvir Zamans First Open gl program");
+	glutCreateWindow("Tanvir's First OpenGL");
 	glutInitWindowSize(400,400);
 	glutInitWindowPosition(50,50);
 
