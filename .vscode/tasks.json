@@ -9,12 +9,12 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}",
+				"${fileDirname}/${fileBasenameNoExtension}"/*,
 				"-lGLU",
 				"-lglfw",
 				"-lGLEW",
 				"-lGL",
-				"-lglut"
+				"-lglut"*/
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
