@@ -24,7 +24,7 @@ void initRendering() {
 	glEnable(GL_COLOR_MATERIAL);
 	glEnable(GL_LIGHTING); //Enable lighting
 	//you can have upto 8 lighting
-	glEnable(GL_LIGHT0); //Enable light #0
+	//glEnable(GL_LIGHT0); //Enable light #0
 	//glEnable(GL_LIGHT1); //Enable light #1 //Automatically normalize normals
 	//glShadeModel(GL_SMOOTH); //Enable smooth shading
 }
